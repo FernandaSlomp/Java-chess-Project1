@@ -1,6 +1,5 @@
 package Chess;
 
-import boardgame.BoardException;
 import boardgame.Position;
 
 public class ChessPosition {
